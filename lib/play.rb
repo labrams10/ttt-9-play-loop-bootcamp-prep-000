@@ -37,5 +37,6 @@ end
 def play(board)
   position = 0 
   until position = 9
+  puts
 end
 # Define your play method below
