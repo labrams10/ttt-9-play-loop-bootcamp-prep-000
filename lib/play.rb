@@ -39,4 +39,5 @@ def play(board)
   until position = 9
   turn(board)
 end
+end
 # Define your play method below
